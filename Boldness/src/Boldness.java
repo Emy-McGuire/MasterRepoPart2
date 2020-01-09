@@ -24,6 +24,7 @@ public class Boldness
 		public static void laurenSecondMethod()
 		{
 			System.out.println("Now I'm adding another method, please enjoy!");
+			System.out.println("I am just going to keep adding to your new methods hehe ;)");
 		}
 		
 		
