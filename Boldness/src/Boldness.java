@@ -9,11 +9,21 @@ public class Boldness
 				System.out.println("Never Stop!");
 				laurenMethod();
 				
+				
+				emyMethod();
+				
 			}
 		
 		public static void laurenMethod()
 		{
 			System.out.println("Lauren trying to create a method now!");
+		}
+		
+		
+		
+		public static void emyMethod()
+		{
+			System.out.println("AFKAJGHLAWEUFGBAKLFGBUALEIUFG");
 		}
 
 	}
