@@ -8,6 +8,7 @@ public class Boldness
 				System.out.println("Right on!");
 				System.out.println("Never Stop!");
 				laurenMethod();
+				laurenSecondMethod();
 				
 			}
 		
@@ -15,6 +16,11 @@ public class Boldness
 		{
 			System.out.println("Lauren trying to create a method now!");
 			System.out.println("Yay!! You did it!");
+		}
+		
+		public static void laurenSecondMethod()
+		{
+			System.out.println("Now I'm adding another method, please enjoy!");
 		}
 
 	}
