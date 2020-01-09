@@ -23,7 +23,7 @@ public class Boldness
 		
 		public static void emyMethod()
 		{
-			System.out.println("AFKAJGHLAWEUFGBAKLFGBUALEIUFG");
+			System.out.println("AFKAJGHLAWEUFGBAKLFsrghsGBUALEIUFG");
 		}
 
 	}
