@@ -14,6 +14,7 @@ public class Boldness
 		public static void laurenMethod()
 		{
 			System.out.println("Lauren trying to create a method now!");
+			System.out.println("Yay!! You did it!");
 		}
 
 	}
